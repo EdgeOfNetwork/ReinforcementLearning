@@ -11,8 +11,9 @@
 
 5. doit_RL  
   
-6. flexsim  
+6. flexsim    
   
-7. handson_RL  
+7. handson_RL    
 
-8. reinforcement-learning-kr  
+8. reinforcement-learning-kr    
+  
