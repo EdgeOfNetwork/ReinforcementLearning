@@ -26,4 +26,5 @@ weights = np.array([weight0, weight1, weight2, weight3])
 model.set_weights(weights)
 
 # Visualize
-plot_model(model, to_file='model_shapes.png', show_shapes=True)
+#plot_model(model, to_file='model_shapes.png', show_shapes=True)
+model.summary()
