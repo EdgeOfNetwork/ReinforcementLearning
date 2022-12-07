@@ -29,6 +29,10 @@ https://www.youtube.com/watch?v=Dyp9lQpVgCs&t=675s
 3. CartPole  
 
 4. RL_first_step   
+  
+--> 아서 줄리아니 RL 참고  >> 교재 : 강화학습 첫 걸음  
+https://awjuliani.medium.com/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149  
+
 
 5. doit_RL  
   
