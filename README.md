@@ -18,27 +18,10 @@ https://www.youtube.com/watch?v=Dyp9lQpVgCs&t=675s
 
 
 =======================================
-
-
-  
-  
-1. FlexSim 기본 문제 및 연습문제 풀이  
-  
-2. Do it 강화학습, 진행  
-  
-3. CartPole  
-
-4. RL_first_step   
-  
---> 아서 줄리아니 RL 참고  >> 교재 : 강화학습 첫 걸음  
-https://awjuliani.medium.com/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149  
-
-
-5. doit_RL  
-  
-6. flexsim    
-  
-7. handson_RL    
-
-8. reinforcement-learning-kr    
-  
+[Directory]  
+- CartPole  
+- TextBook  
+    -Author Juliany >> 교재 : 강화학습 첫 걸음  
+    https://awjuliani.medium.com/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149    
+    -Codetutorial  
+    -doitRL
